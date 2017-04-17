@@ -97,7 +97,7 @@ ng-init 初始化一个对象的值
   - 目的：数据模型的值发生改变，就会导致页面值的改变，页面值的改变，就会导致数据模型值的改变，这各种相互影响的关系就是双向数据绑定。
 
 ## 看图理解：
-  (./pic/angular-mvvm.png);
+  ![Image text](./pic/angular-mvvm.png);
 
 ### ViewModel
 - $scope 实际上就是MVVM中所谓的VM（视图模型）
